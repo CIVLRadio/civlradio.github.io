@@ -4,4 +4,20 @@ This site contains technical information, documentation and scripts for CIVL Rad
 
 ## Looking for our main site? Try [here!](https://civl.ca/)
 
+## Tech info
+
+* [Systems](/systems)
+
+## Documentation
+
+* Air chain at a glance
+* Audio system layout
+* Network file share
+* Questions and answers
+* Server filesystem layout
+
+## Scripts
+
+* [nowplaying.py](https://github.com/CIVLRadio/nowplaying)
+
 ## This site is under construction! Please pardon our dust.
