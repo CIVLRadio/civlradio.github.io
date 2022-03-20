@@ -6,6 +6,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-titles-from-headings
 include: ["_pages"]
 
 minimal_mistakes_skin: "contrast"
@@ -30,3 +31,8 @@ defaults:
       layout: single
 
 timezone: America/Vancouver
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true 
