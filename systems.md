@@ -19,7 +19,7 @@ This page lists the different computers - both desktops and servers - involved i
 ### anemone
 - **Model:** SuperMicro X10SLM-F
 - **OS:** Debian stretch
-- **CPU:** 2x Intel Xeon E3-1231 v3 @ 3.8 GHz
+- **CPU:** Intel Xeon E3-1231 v3 @ 3.8 GHz
 - **RAM:** 8 GB
 - **Drives:**
   - 2x Seagate NAS HDD 6 TB (ST6000VN0021)
@@ -37,7 +37,7 @@ This page lists the different computers - both desktops and servers - involved i
 - **Drives:**
   - Seagate Barracuda ES.2 250 GB (ST3250310NS)
 - **Details:** Circa 2010 hand-me-down from UFV ITS. Will eventually be replaced.
-***
+
 ### Office workstations
 - **Model:**
   - 6x HP Compaq 8000 Elite
@@ -57,7 +57,7 @@ This page lists the different computers - both desktops and servers - involved i
   - 3x Hitachi Travelstar 7K500 250 GB (HTS725025A9A364)
   - 1x N/A
 - **Details:** Circa 2010 hand-me-downs from UFV ITS. Several have failing disk drives. Two are being used as testbeds for a move away from Windows. All are due to be retired and replaced.
-***
+
 ### Audio workstations
 - **Model:**
   - 2x Gigabyte B85M-D3H
@@ -73,3 +73,10 @@ This page lists the different computers - both desktops and servers - involved i
 - **Drives:**
   - 3x Samsung EVO 850 250 GB (MZ-75E250B/AM)
 - **Details:** Circa 2017 custom builds. Planning to add improved audio interfaces.
+
+### Retired systems
+
+- **barnacle:** Asus P7Q57-M, Win Server 2003 R2, former share server? Retired due to drive failure and virtualised onto anemone ca. 2016?
+- **urchin:** n/a, FreeBSD, former streaming system, retired due to drive failure and functions relocated onto anemone
+- **Old desktop #1:** Dell OptiPlex GX270, Windows XP?, retired due to drive failure
+- **Old desktop #2:** MDG.ca/Seanix D865GLC, Windows XP Professional, retired due to end of useful life
