@@ -2,8 +2,6 @@
 
 This page lists the different computers - both desktops and servers - involved in day-to-day operations at CIVL.
 
-**For other equipment (network, audio, etc.), please see the [infrastructure](/infra.md) page.**
-
 ## Servers
 
 ### blackjack

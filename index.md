@@ -8,18 +8,26 @@ This site contains technical information, documentation and scripts for CIVL Rad
 
 ## Tech info
 
-* [Systems](/systems)
+- Hardware:
+    - [Audio](/audio)
+    - [Network](/network)
+    - [Servers + desktops](/systems)
+- Software:
+    - Operating systems
+    - Programs
 
 ## Documentation
 
-* Air chain at a glance
-* Audio system layout
-* Network file share
-* Questions and answers
-* Server filesystem layout
+- Air chain at a glance
+- Audio system layout
+- Network file share
+- Questions and answers
+- Server filesystem layout
 
 ## Scripts
 
-* [nowplaying.py](https://github.com/CIVLRadio/nowplaying)
+- [nowplaying.py](https://github.com/CIVLRadio/nowplaying)
 
-## This site is under construction! Please pardon our dust.
+## Misc
+
+- Credits
