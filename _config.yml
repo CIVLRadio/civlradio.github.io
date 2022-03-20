@@ -6,3 +6,27 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+include: ["_pages"]
+
+minimal_mistakes_skin: "contrast"
+
+locale: "en-GB"
+
+title: "CIVL Radio Tech Site"
+name: "Emma Hones"
+description: "Technical information, documentation and scripts for CIVL Radio, a campus/community radio station serving the Fraser Valley of British Columbia."
+url: "https://tech.civl.ca/"
+
+atom_feed:
+  hide: true
+search: true
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
+timezone: America/Vancouver
